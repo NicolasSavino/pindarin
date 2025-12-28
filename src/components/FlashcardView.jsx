@@ -1,39 +1,56 @@
 import { useState, useEffect } from 'react'
 import './FlashcardView.css'
-import { calculateNextReview, getDueCards, getDeckStats } from '../utils/supermemo'
 import { speakChinese } from '../utils/tts'
 
 function FlashcardView({ deck, onUpdateDeck, onExit }) {
-  const [dueCards, setDueCards] = useState([])
+  const [cards, setCards] = useState([])
   const [currentCardIndex, setCurrentCardIndex] = useState(0)
   const [isFlipped, setIsFlipped] = useState(false)
   const [showResult, setShowResult] = useState(false)
-  const [stats, setStats] = useState({})
+  const [skippedCards, setSkippedCards] = useState([])
 
   useEffect(() => {
-    const due = getDueCards(deck.cards)
-    setDueCards(due)
-    setStats(getDeckStats(deck.cards))
+    // Get all non-mastered cards and randomize them
+    const nonMastered = deck.cards.filter(card => !card.mastered)
+    const shuffled = [...nonMastered].sort(() => Math.random() - 0.5)
+    setCards(shuffled)
   }, [deck])
 
-  const currentCard = dueCards[currentCardIndex]
+  const currentCard = cards[currentCardIndex]
 
   const handleFlip = () => {
     setIsFlipped(!isFlipped)
   }
 
-  const handleGrade = (grade) => {
-    const updatedCard = calculateNextReview(currentCard, grade)
+  const handleNext = () => {
+    moveToNextCard()
+  }
 
+  const handleSkip = () => {
+    // Add current card to skipped list to show at end
+    setSkippedCards([...skippedCards, currentCard])
+    moveToNextCard()
+  }
+
+  const handleMastered = () => {
+    // Mark card as mastered
+    const updatedCard = { ...currentCard, mastered: true }
     const updatedCards = deck.cards.map(card =>
       card.id === currentCard.id ? updatedCard : card
     )
-
     onUpdateDeck({ ...deck, cards: updatedCards })
+    moveToNextCard()
+  }
 
-    // Move to next card
-    if (currentCardIndex < dueCards.length - 1) {
+  const moveToNextCard = () => {
+    if (currentCardIndex < cards.length - 1) {
       setCurrentCardIndex(currentCardIndex + 1)
+      setIsFlipped(false)
+    } else if (skippedCards.length > 0) {
+      // Show skipped cards
+      setCards(skippedCards)
+      setSkippedCards([])
+      setCurrentCardIndex(0)
       setIsFlipped(false)
     } else {
       setShowResult(true)
@@ -46,26 +63,12 @@ function FlashcardView({ deck, onUpdateDeck, onExit }) {
     }
   }
 
-  if (dueCards.length === 0) {
+  if (cards.length === 0) {
     return (
       <div className="flashcard-view">
         <div className="session-complete">
-          <h2>All done for now!</h2>
-          <p>No cards are due for review.</p>
-          <div className="stats-summary">
-            <div className="stat">
-              <span className="stat-value">{stats.total}</span>
-              <span className="stat-label">Total Cards</span>
-            </div>
-            <div className="stat">
-              <span className="stat-value">{stats.mature}</span>
-              <span className="stat-label">Mature</span>
-            </div>
-            <div className="stat">
-              <span className="stat-value">{stats.learning}</span>
-              <span className="stat-label">Learning</span>
-            </div>
-          </div>
+          <h2>All Mastered!</h2>
+          <p>You've mastered all cards in this deck.</p>
           <button onClick={onExit} className="btn-primary">
             Back to Decks
           </button>
@@ -79,7 +82,7 @@ function FlashcardView({ deck, onUpdateDeck, onExit }) {
       <div className="flashcard-view">
         <div className="session-complete">
           <h2>Session Complete!</h2>
-          <p>You've reviewed {dueCards.length} cards.</p>
+          <p>Great work!</p>
           <button onClick={onExit} className="btn-primary">
             Back to Decks
           </button>
@@ -93,12 +96,12 @@ function FlashcardView({ deck, onUpdateDeck, onExit }) {
       <div className="progress-bar">
         <div
           className="progress-fill"
-          style={{ width: `${((currentCardIndex + 1) / dueCards.length) * 100}%` }}
+          style={{ width: `${((currentCardIndex + 1) / cards.length) * 100}%` }}
         />
       </div>
 
       <div className="card-counter">
-        {currentCardIndex + 1} / {dueCards.length}
+        {currentCardIndex + 1} / {cards.length}
       </div>
 
       <div className={`flashcard ${isFlipped ? 'flipped' : ''}`} onClick={handleFlip}>
@@ -140,35 +143,24 @@ function FlashcardView({ deck, onUpdateDeck, onExit }) {
 
       {isFlipped && (
         <div className="grade-buttons">
-          <p className="grade-prompt">How well did you know this?</p>
           <div className="grade-grid">
             <button
-              className="grade-btn grade-0"
-              onClick={() => handleGrade(0)}
+              className="grade-btn btn-next"
+              onClick={handleNext}
             >
-              Again
-              <span className="grade-desc">Complete blackout</span>
+              Next
             </button>
             <button
-              className="grade-btn grade-3"
-              onClick={() => handleGrade(3)}
+              className="grade-btn btn-skip"
+              onClick={handleSkip}
             >
-              Hard
-              <span className="grade-desc">Difficult recall</span>
+              Skip
             </button>
             <button
-              className="grade-btn grade-4"
-              onClick={() => handleGrade(4)}
+              className="grade-btn btn-mastered"
+              onClick={handleMastered}
             >
-              Good
-              <span className="grade-desc">Correct with hesitation</span>
-            </button>
-            <button
-              className="grade-btn grade-5"
-              onClick={() => handleGrade(5)}
-            >
-              Easy
-              <span className="grade-desc">Perfect recall</span>
+              Mastered
             </button>
           </div>
         </div>

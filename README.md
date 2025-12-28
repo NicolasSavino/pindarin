@@ -1,14 +1,14 @@
 # 拼大人 Pindarin
 
-A retro-styled Mandarin Chinese vocabulary trainer featuring HSK 1-3 vocabulary (4,000+ words), spaced repetition learning, and an 8-bit Chinese aesthetic.
+A retro-styled Mandarin Chinese vocabulary trainer featuring HSK 1-3 vocabulary (4,000+ words) with an 8-bit Chinese aesthetic.
 
 ## Features
 
 - **Pre-loaded HSK Vocabulary**: Complete HSK levels 1-3 with over 4,000 vocabulary cards
-- **Spaced Repetition**: SuperMemo-2 algorithm optimizes review timing based on your performance
+- **Randomized Learning**: Cards are shuffled every time you study a deck
 - **Text-to-Speech**: Built-in browser-based Chinese pronunciation for every word
 - **8-bit Chinese Theme**: Retro game aesthetic with traditional Chinese color palette (red, gold, jade, ink black)
-- **Progress Tracking**: Learning progress automatically saved locally in your browser
+- **Simple Progress**: Mark cards as mastered to remove them from future sessions
 - **Custom Decks**: Create your own vocabulary decks alongside pre-loaded HSK content
 - **Offline First**: Works without internet after initial load
 
@@ -46,14 +46,13 @@ For the best experience, use a modern browser with Chinese TTS support:
 ### Studying Flashcards
 
 1. Select a deck (HSK 1, HSK 2, or HSK 3) from the main screen
-2. Click "Study Now" to begin your session
+2. Click "Study Now" to begin - cards are randomized each session
 3. View the Chinese character, then click the card to flip and reveal pinyin and English translation
 4. Click the speaker icon (🔊) to hear native Chinese pronunciation
-5. Rate your knowledge:
-   - **Again**: Didn't know it at all - card shown again soon
-   - **Hard**: Difficult to recall - shorter review interval
-   - **Good**: Knew it with some hesitation - normal interval
-   - **Easy**: Perfect recall - longer interval
+5. Choose what to do with the card:
+   - **Next**: Move to the next card without marking
+   - **Skip**: Skip this card for now (shown again at end of session)
+   - **Mastered**: You've learned this word - won't appear in future sessions
 
 ### Managing Decks
 
@@ -62,18 +61,10 @@ For the best experience, use a modern browser with Chinese TTS support:
 3. Add vocabulary cards with Chinese characters, pinyin, and English translations
 4. Use the 🔊 Test button to preview pronunciation while editing
 
-## SuperMemo-2 Algorithm
-
-The app uses the SuperMemo-2 spaced repetition algorithm:
-- Cards you know well appear less frequently
-- Cards you struggle with appear more often
-- Each card has an "ease factor" that adjusts based on performance
-- Review intervals: 1 day → 6 days → increasingly longer periods
-
 ## Tech Stack
 
-- React 18.3.1
-- Vite 6.0.5
+- React 18
+- Vite 6
 - Web Speech API (Chinese TTS)
 - LocalStorage (data persistence)
 

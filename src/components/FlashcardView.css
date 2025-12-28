@@ -35,8 +35,8 @@
 
 .flashcard {
   width: 100%;
-  max-width: 500px;
-  height: 350px;
+  max-width: 400px;
+  height: 280px;
   perspective: 1000px;
   cursor: pointer;
 }
@@ -84,23 +84,23 @@
 }
 
 .chinese {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 700;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   line-height: 1.2;
-  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.5);
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.5);
 }
 
 .pinyin {
-  font-size: 2rem;
-  margin-bottom: 16px;
+  font-size: 1.5rem;
+  margin-bottom: 12px;
   opacity: 0.95;
   font-weight: 500;
   text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3);
 }
 
 .english {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   opacity: 0.9;
   text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3);
 }
@@ -118,9 +118,9 @@
   background: var(--imperial-gold);
   border: 3px solid var(--ink-black);
   color: var(--ink-black);
-  font-size: 1.5rem;
-  padding: 12px 20px;
-  margin-top: 16px;
+  font-size: 1.2rem;
+  padding: 10px 16px;
+  margin-top: 12px;
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.5);
 }
 
@@ -137,76 +137,46 @@
 
 .grade-buttons {
   width: 100%;
-  max-width: 500px;
-}
-
-.grade-prompt {
-  text-align: center;
-  color: var(--ink-black);
-  font-size: 1.1rem;
-  margin-bottom: 16px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  max-width: 400px;
 }
 
 .grade-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
 }
 
 .grade-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 16px;
-  font-size: 1rem;
+  padding: 14px;
+  font-size: 0.95rem;
   font-weight: 700;
   color: var(--cream);
-  gap: 4px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
-.grade-desc {
-  font-size: 0.75rem;
-  font-weight: 400;
-  opacity: 0.9;
-  text-transform: capitalize;
-  letter-spacing: 0;
-}
-
-.grade-0 {
-  background: var(--chinese-red);
-}
-
-.grade-0:hover {
-  background: #B8001F;
-}
-
-.grade-3 {
-  background: var(--dark-gold);
-}
-
-.grade-3:hover {
-  background: #9A7209;
-}
-
-.grade-4 {
+.btn-next {
   background: var(--jade-green);
 }
 
-.grade-4:hover {
+.btn-next:hover {
   background: #008556;
 }
 
-.grade-5 {
+.btn-skip {
+  background: var(--dark-gold);
+}
+
+.btn-skip:hover {
+  background: #9A7209;
+}
+
+.btn-mastered {
   background: var(--imperial-gold);
   color: var(--ink-black);
 }
 
-.grade-5:hover {
+.btn-mastered:hover {
   background: #E6C200;
 }
 
