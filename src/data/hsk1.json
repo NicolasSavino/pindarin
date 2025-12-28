@@ -1,0 +1,5112 @@
+[
+  {
+    "id": "hsk1-001",
+    "chinese": "爱",
+    "pinyin": "ài",
+    "english": "to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-002",
+    "chinese": "爱好",
+    "pinyin": "ài hào",
+    "english": "to like; to be fond of; to take pleasure in; to be keen on; interest; hobby",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-003",
+    "chinese": "八",
+    "pinyin": "bā",
+    "english": "eight; 8",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-004",
+    "chinese": "爸",
+    "pinyin": "bà",
+    "english": "father; dad; pa; papa",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-005",
+    "chinese": "爸爸",
+    "pinyin": "bà ba",
+    "english": "(coll.) father; dad",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-006",
+    "chinese": "吧",
+    "pinyin": "bā",
+    "english": "bar (loanword) (serving drinks, or providing Internet access etc); to puff (on a pipe etc); (onom.) bang; abbr. for 贴吧",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-007",
+    "chinese": "白",
+    "pinyin": "Bái",
+    "english": "surname Bai",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-008",
+    "chinese": "白天",
+    "pinyin": "bái tiān",
+    "english": "daytime; during the day; day",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-009",
+    "chinese": "百",
+    "pinyin": "Bǎi",
+    "english": "surname Bai",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-010",
+    "chinese": "班",
+    "pinyin": "Bān",
+    "english": "surname Ban",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-011",
+    "chinese": "半",
+    "pinyin": "bàn",
+    "english": "half; semi-; incomplete; (after a number) and a half",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-012",
+    "chinese": "半年",
+    "pinyin": "bàn nián",
+    "english": "half a year",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-013",
+    "chinese": "半天",
+    "pinyin": "bàn tiān",
+    "english": "half of the day; a long time; quite a while; midair",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-014",
+    "chinese": "帮",
+    "pinyin": "bāng",
+    "english": "old variant of 帮",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-015",
+    "chinese": "帮忙",
+    "pinyin": "bāng máng",
+    "english": "to help; to lend a hand; to do a favor; to do a good turn",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-016",
+    "chinese": "包",
+    "pinyin": "Bāo",
+    "english": "surname Bao",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-017",
+    "chinese": "包子",
+    "pinyin": "bāo zi",
+    "english": "bao (steamed stuffed bun)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-018",
+    "chinese": "杯",
+    "pinyin": "bēi",
+    "english": "cup; trophy cup; classifier for certain containers of liquids: glass, cup",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-019",
+    "chinese": "杯子",
+    "pinyin": "bēi zi",
+    "english": "cup; glass",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-020",
+    "chinese": "北",
+    "pinyin": "běi",
+    "english": "north; (classical) to be defeated",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-021",
+    "chinese": "北边",
+    "pinyin": "běi biān",
+    "english": "north; north side; northern part; to the north of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-022",
+    "chinese": "北京",
+    "pinyin": "Běi jīng",
+    "english": "Beijing, capital of the People's Republic of China",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-023",
+    "chinese": "本",
+    "pinyin": "běn",
+    "english": "root; stem; origin; source; this; the current; original; inherent; originally; classifier for books, periodicals, files etc",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-024",
+    "chinese": "本子",
+    "pinyin": "běn zi",
+    "english": "book; notebook; Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"; edition",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-025",
+    "chinese": "比",
+    "pinyin": "Bǐ",
+    "english": "Belgium; Belgian; abbr. for 比利时",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-026",
+    "chinese": "别",
+    "pinyin": "Bié",
+    "english": "surname Bie",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-027",
+    "chinese": "别的",
+    "pinyin": "bié de",
+    "english": "else; other",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-028",
+    "chinese": "别人",
+    "pinyin": "bié ren",
+    "english": "other people; others; other person",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-029",
+    "chinese": "病",
+    "pinyin": "bìng",
+    "english": "illness; disease; to fall ill; defect",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-030",
+    "chinese": "病人",
+    "pinyin": "bìng rén",
+    "english": "sick person; patient; invalid",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-031",
+    "chinese": "不",
+    "pinyin": "bù",
+    "english": "no; not so; (bound form) not; un-",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-032",
+    "chinese": "不大",
+    "pinyin": "bù dà",
+    "english": "not very; not too; not often",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-033",
+    "chinese": "不对",
+    "pinyin": "bù duì",
+    "english": "incorrect; wrong; amiss; abnormal; queer",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-034",
+    "chinese": "不客气",
+    "pinyin": "bù kè qi",
+    "english": "you're welcome; don't mention it; impolite; rude; blunt",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-035",
+    "chinese": "不用",
+    "pinyin": "bù yòng",
+    "english": "need not",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-036",
+    "chinese": "菜",
+    "pinyin": "cài",
+    "english": "dish (type of food); vegetable; cuisine; (coll.) (one's) type; (of one's skills etc) weak; poor",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-037",
+    "chinese": "茶",
+    "pinyin": "chá",
+    "english": "tea; tea plant",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-038",
+    "chinese": "差",
+    "pinyin": "chā",
+    "english": "difference; discrepancy; (math.) difference (amount remaining after a subtraction); (literary) a little; somewhat; slightly",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-039",
+    "chinese": "常",
+    "pinyin": "Cháng",
+    "english": "surname Chang",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-040",
+    "chinese": "常常",
+    "pinyin": "cháng cháng",
+    "english": "frequently; often",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-041",
+    "chinese": "唱",
+    "pinyin": "chàng",
+    "english": "to sing; to call loudly; to chant",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-042",
+    "chinese": "唱歌",
+    "pinyin": "chàng gē",
+    "english": "to sing a song",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-043",
+    "chinese": "车",
+    "pinyin": "Chē",
+    "english": "surname Che",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-044",
+    "chinese": "车票",
+    "pinyin": "chē piào",
+    "english": "ticket (for a bus or train)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-045",
+    "chinese": "车上",
+    "pinyin": "chē shàng",
+    "english": "Car",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-046",
+    "chinese": "车站",
+    "pinyin": "chē zhàn",
+    "english": "rail station; bus stop",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-047",
+    "chinese": "吃",
+    "pinyin": "chī",
+    "english": "to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy; to absorb; to suffer (shock, injury, defeat etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-048",
+    "chinese": "吃饭",
+    "pinyin": "chī fàn",
+    "english": "to have a meal; to eat; to make a living",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-049",
+    "chinese": "出",
+    "pinyin": "chū",
+    "english": "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; (used after a verb to indicate an outward direction or a positive result); classifier for dramas, plays, operas etc",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-050",
+    "chinese": "出来",
+    "pinyin": "chū lái",
+    "english": "to come out; to appear; to arise",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-051",
+    "chinese": "出去",
+    "pinyin": "chū qù",
+    "english": "to go out",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-052",
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "english": "to wear; to put on; to dress; to bore through; to pierce; to perforate; to penetrate; to pass through; to thread",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-053",
+    "chinese": "床",
+    "pinyin": "chuáng",
+    "english": "bed; couch; classifier for beds",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-054",
+    "chinese": "次",
+    "pinyin": "cì",
+    "english": "next in sequence; second; the second (day, time etc); secondary; vice-; sub-; infra-; inferior quality; substandard; order; sequence; hypo- (chemistry); classifier for enumerated events: time",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-055",
+    "chinese": "从",
+    "pinyin": "cóng",
+    "english": "variant of 从",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-056",
+    "chinese": "错",
+    "pinyin": "Cuò",
+    "english": "surname Cuo",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-057",
+    "chinese": "打",
+    "pinyin": "dá",
+    "english": "dozen (loanword)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-058",
+    "chinese": "打车",
+    "pinyin": "dǎ chē",
+    "english": "to take a taxi (in town); to hitch a lift",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-059",
+    "chinese": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "english": "to make a telephone call",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-060",
+    "chinese": "打开",
+    "pinyin": "dǎ kāi",
+    "english": "to open; to show (a ticket); to turn on; to switch on",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-061",
+    "chinese": "打球",
+    "pinyin": "dǎ qiú",
+    "english": "to play ball; to play with a ball",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-062",
+    "chinese": "大",
+    "pinyin": "dà",
+    "english": "big; large; great; older (than another person); eldest (as in 姐); greatly; freely; fully; (dialect) father; (dialect) uncle (father's brother)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-063",
+    "chinese": "大学",
+    "pinyin": "Dà xué",
+    "english": "the Great Learning, one of the Four Books 四书 in Confucianism",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-064",
+    "chinese": "大学生",
+    "pinyin": "dà xué shēng",
+    "english": "university student; college student",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-065",
+    "chinese": "到",
+    "pinyin": "dào",
+    "english": "to reach; to arrive; to leave for; to go to; to (a place); until (a time); up to (a point); (verb complement indicating arriving at a place or reaching a point); considerate; thoughtful; thorough",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-066",
+    "chinese": "地",
+    "pinyin": "de",
+    "english": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-067",
+    "chinese": "地点",
+    "pinyin": "dì diǎn",
+    "english": "place; site; location; venue",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-068",
+    "chinese": "地方",
+    "pinyin": "dì fāng",
+    "english": "region; regional (away from the central administration); local",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-069",
+    "chinese": "地上",
+    "pinyin": "dì shang",
+    "english": "on the ground; on the floor",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-070",
+    "chinese": "地图",
+    "pinyin": "dì tú",
+    "english": "map",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-071",
+    "chinese": "的",
+    "pinyin": "de",
+    "english": "of; ~'s (possessive particle); (used after an attribute); (used to form a nominal expression); (used at the end of a declarative sentence for emphasis); also pr. [dì] or [di] in poetry and songs",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-072",
+    "chinese": "得到",
+    "pinyin": "dé dào",
+    "english": "to get; to obtain; to receive",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-073",
+    "chinese": "等",
+    "pinyin": "děng",
+    "english": "class; rank; grade; equal to; same as; to wait for; to await; et cetera; and so on; et al. (and other authors); after; as soon as; once",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-074",
+    "chinese": "弟",
+    "pinyin": "dì",
+    "english": "younger brother; junior male; I (modest word in letter)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-075",
+    "chinese": "弟弟",
+    "pinyin": "dì di",
+    "english": "younger brother",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-076",
+    "chinese": "第",
+    "pinyin": "dì",
+    "english": "(prefix indicating ordinal number, as in 六 \"sixth\"); (literary) grades in which successful candidates in the imperial examinations were placed; (old) residence of a high official; (literary) but; however; (literary) only; just",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-077",
+    "chinese": "第",
+    "pinyin": "dì",
+    "english": "(prefix indicating ordinal number, as in 六 \"sixth\"); (literary) grades in which successful candidates in the imperial examinations were placed; (old) residence of a high official; (literary) but; however; (literary) only; just",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-078",
+    "chinese": "第二",
+    "pinyin": "dì èr",
+    "english": "second; number two; next; secondary",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-079",
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "english": "point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更; dot stroke in Chinese characters; classifier for items",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-080",
+    "chinese": "电",
+    "pinyin": "diàn",
+    "english": "lightning; electricity; electric (bound form); to get (or give) an electric shock; phone call or telegram etc; to send via telephone or telegram etc",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-081",
+    "chinese": "电话",
+    "pinyin": "diàn huà",
+    "english": "telephone; phone call; phone number",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-082",
+    "chinese": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-083",
+    "chinese": "电视",
+    "pinyin": "diàn shì",
+    "english": "television; TV",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-084",
+    "chinese": "电视机",
+    "pinyin": "diàn shì jī",
+    "english": "television set",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-085",
+    "chinese": "电影",
+    "pinyin": "diàn yǐng",
+    "english": "movie; film",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-086",
+    "chinese": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "english": "cinema; movie theater",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-087",
+    "chinese": "东",
+    "pinyin": "Dōng",
+    "english": "surname Dong",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-088",
+    "chinese": "东边",
+    "pinyin": "dōng bian",
+    "english": "east; east side; eastern part; to the east of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-089",
+    "chinese": "东西",
+    "pinyin": "dōng xī",
+    "english": "east and west",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-090",
+    "chinese": "动",
+    "pinyin": "dòng",
+    "english": "(of sth) to move; to set in movement; to displace; to touch; to make use of; to stir (emotions); to alter; abbr. for 动词, verb",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-091",
+    "chinese": "动作",
+    "pinyin": "dòng zuò",
+    "english": "movement; motion; action; to act; to move",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-092",
+    "chinese": "都",
+    "pinyin": "Dū",
+    "english": "surname Du",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-093",
+    "chinese": "读",
+    "pinyin": "dòu",
+    "english": "comma; phrase marked by pause",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-094",
+    "chinese": "读书",
+    "pinyin": "dú shū",
+    "english": "to read a book; to study; to attend school",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-095",
+    "chinese": "对",
+    "pinyin": "duì",
+    "english": "right; correct; towards; at; for; concerning; regarding; to treat (sb a certain way); to face; (bound form) opposite; facing; matching; to match together; to adjust; to fit; to suit; to answer; to reply; to add; to pour in (a fluid); to check; to compare; classifier: couple; pair",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-096",
+    "chinese": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "I'm sorry; excuse me; I beg your pardon; to let (sb) down; to disappoint",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-097",
+    "chinese": "多",
+    "pinyin": "duō",
+    "english": "many; much; too many; in excess; (after a numeral) ... odd; how (to what extent) (Taiwan pr. [duó]); (bound form) multi-; poly-",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-098",
+    "chinese": "多少",
+    "pinyin": "duō shǎo",
+    "english": "number; amount; somewhat",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-099",
+    "chinese": "饿",
+    "pinyin": "è",
+    "english": "to be hungry; hungry; to starve (sb)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-100",
+    "chinese": "儿子",
+    "pinyin": "ér zi",
+    "english": "son",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-101",
+    "chinese": "二",
+    "pinyin": "èr",
+    "english": "two; 2; (Beijing dialect) stupid",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-102",
+    "chinese": "饭",
+    "pinyin": "fàn",
+    "english": "cooked rice; meal; (loanword) fan; devotee",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-103",
+    "chinese": "饭店",
+    "pinyin": "fàn diàn",
+    "english": "restaurant; hotel",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-104",
+    "chinese": "房间",
+    "pinyin": "fáng jiān",
+    "english": "room",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-105",
+    "chinese": "房子",
+    "pinyin": "fáng zi",
+    "english": "house; building (single- or two-story); apartment; room",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-106",
+    "chinese": "放",
+    "pinyin": "fàng",
+    "english": "to put; to place; to release; to free; to let go; to let out; to set off (fireworks)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-107",
+    "chinese": "放假",
+    "pinyin": "fàng jià",
+    "english": "to have a holiday or vacation",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-108",
+    "chinese": "放学",
+    "pinyin": "fàng xué",
+    "english": "to dismiss students at the end of the school day",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-109",
+    "chinese": "飞",
+    "pinyin": "fēi",
+    "english": "to fly",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-110",
+    "chinese": "飞机",
+    "pinyin": "fēi jī",
+    "english": "airplane",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-111",
+    "chinese": "非常",
+    "pinyin": "fēi cháng",
+    "english": "very; really; unusual; extraordinary",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-112",
+    "chinese": "分",
+    "pinyin": "fēn",
+    "english": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); (bound form) branch of (an organization); sub- (as in 局); fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute (unit of time); minute (angular measurement unit); a point (in sports or games); 0.01 yuan (unit of money)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-113",
+    "chinese": "风",
+    "pinyin": "fēng",
+    "english": "wind; news; style; custom; manner",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-114",
+    "chinese": "干",
+    "pinyin": "gān",
+    "english": "old variant of 干",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-115",
+    "chinese": "干净",
+    "pinyin": "gān jìng",
+    "english": "clean; neat",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-116",
+    "chinese": "干什么",
+    "pinyin": "gàn shén me",
+    "english": "what are you doing?; what's he up to?",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-117",
+    "chinese": "高",
+    "pinyin": "Gāo",
+    "english": "surname Gao",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-118",
+    "chinese": "高兴",
+    "pinyin": "gāo xìng",
+    "english": "happy; glad; willing (to do sth); in a cheerful mood",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-119",
+    "chinese": "告诉",
+    "pinyin": "gào sù",
+    "english": "to press charges; to file a complaint",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-120",
+    "chinese": "哥",
+    "pinyin": "gē",
+    "english": "elder brother",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-121",
+    "chinese": "哥哥",
+    "pinyin": "gē ge",
+    "english": "older brother",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-122",
+    "chinese": "歌",
+    "pinyin": "gē",
+    "english": "song; to sing",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-123",
+    "chinese": "个",
+    "pinyin": "gě",
+    "english": "used in 自个儿",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-124",
+    "chinese": "给",
+    "pinyin": "gěi",
+    "english": "to; for; for the benefit of; to give; to allow; to do sth (for sb); (grammatical equivalent of 被); (grammatical equivalent of 把); (sentence intensifier)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-125",
+    "chinese": "跟",
+    "pinyin": "gēn",
+    "english": "heel; to follow closely; to go with; (of a woman) to marry sb; with; compared with; to; towards; and (joining two nouns)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-126",
+    "chinese": "工人",
+    "pinyin": "gōng rén",
+    "english": "worker",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-127",
+    "chinese": "工作",
+    "pinyin": "gōng zuò",
+    "english": "to work; (of a machine) to operate; job; work; task",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-128",
+    "chinese": "关",
+    "pinyin": "Guān",
+    "english": "surname Guan",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-129",
+    "chinese": "关上",
+    "pinyin": "guān shàng",
+    "english": "to close (a door); to turn off (light, electrical equipment etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-130",
+    "chinese": "贵",
+    "pinyin": "guì",
+    "english": "expensive; noble; precious; (honorific) your",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-131",
+    "chinese": "国",
+    "pinyin": "Guó",
+    "english": "surname Guo",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-132",
+    "chinese": "国家",
+    "pinyin": "guó jiā",
+    "english": "country; nation; state",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-133",
+    "chinese": "国外",
+    "pinyin": "guó wài",
+    "english": "abroad; external (affairs); overseas; foreign",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-134",
+    "chinese": "过",
+    "pinyin": "Guō",
+    "english": "surname Guo",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-135",
+    "chinese": "还",
+    "pinyin": "Huán",
+    "english": "surname Huan",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-136",
+    "chinese": "还是",
+    "pinyin": "hái shi",
+    "english": "still (as before); had better; unexpectedly; or",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-137",
+    "chinese": "还有",
+    "pinyin": "hái yǒu",
+    "english": "furthermore; in addition; still; also",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-138",
+    "chinese": "孩子",
+    "pinyin": "hái zi",
+    "english": "child",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-139",
+    "chinese": "汉语",
+    "pinyin": "Hàn yǔ",
+    "english": "Chinese language",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-140",
+    "chinese": "汉字",
+    "pinyin": "hàn zì",
+    "english": "Chinese character; Japanese: kanji; Korean: hanja; Vietnamese: hán tự",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-141",
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "english": "good; appropriate; proper; all right!; (before a verb) easy to; (before a verb) good to; (before an adjective for exclamatory effect) so; (verb complement indicating completion); (of two people) close; on intimate terms; (after a personal pronoun) hello",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-142",
+    "chinese": "好吃",
+    "pinyin": "hǎo chī",
+    "english": "tasty; delicious",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-143",
+    "chinese": "好看",
+    "pinyin": "hǎo kàn",
+    "english": "good-looking; nice-looking; good (of a movie, book, TV show etc); embarrassed; humiliated",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-144",
+    "chinese": "好听",
+    "pinyin": "hǎo tīng",
+    "english": "pleasant to hear",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-145",
+    "chinese": "好玩儿",
+    "pinyin": "hǎo wán r",
+    "english": "erhua variant of 玩",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-146",
+    "chinese": "号",
+    "pinyin": "háo",
+    "english": "roar; cry",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-147",
+    "chinese": "喝",
+    "pinyin": "hē",
+    "english": "to drink; variant of 嗬",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-148",
+    "chinese": "和",
+    "pinyin": "hé",
+    "english": "old variant of 和",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-149",
+    "chinese": "很",
+    "pinyin": "hěn",
+    "english": "(adverb of degree); quite; very; awfully",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-150",
+    "chinese": "后",
+    "pinyin": "Hòu",
+    "english": "surname Hou",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-151",
+    "chinese": "后边",
+    "pinyin": "hòu bian",
+    "english": "the back; the rear; the last bit; behind; near the end; at the back; later; afterwards",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-152",
+    "chinese": "后天",
+    "pinyin": "hòu tiān",
+    "english": "the day after tomorrow; life after birth (the period in which one develops through experiences, contrasted with 天); acquired (not innate or congenital); a posteriori",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-153",
+    "chinese": "花",
+    "pinyin": "Huā",
+    "english": "surname Hua",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-154",
+    "chinese": "话",
+    "pinyin": "huà",
+    "english": "dialect; language; spoken words; speech; talk; words; conversation; what sb said",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-155",
+    "chinese": "坏",
+    "pinyin": "huài",
+    "english": "bad; spoiled; broken; to break down; (suffix) to the utmost",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-156",
+    "chinese": "回",
+    "pinyin": "huí",
+    "english": "to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-157",
+    "chinese": "回答",
+    "pinyin": "huí dá",
+    "english": "to reply; to answer; reply; answer",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-158",
+    "chinese": "回到",
+    "pinyin": "huí dào",
+    "english": "to return to",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-159",
+    "chinese": "回家",
+    "pinyin": "huí jiā",
+    "english": "to return home",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-160",
+    "chinese": "回来",
+    "pinyin": "huí lai",
+    "english": "to return; to come back",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-161",
+    "chinese": "回去",
+    "pinyin": "huí qu",
+    "english": "to return; to go back",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-162",
+    "chinese": "会",
+    "pinyin": "huì",
+    "english": "can; to have the skill; to know how to; to be likely to; to be sure to; to meet; to get together; meeting; gathering; (suffix) union; group; association; (bound form) a moment (Taiwan pr. [huǐ])",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-163",
+    "chinese": "火车",
+    "pinyin": "huǒ chē",
+    "english": "train",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-164",
+    "chinese": "机场",
+    "pinyin": "jī chǎng",
+    "english": "airport; airfield; (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-165",
+    "chinese": "机票",
+    "pinyin": "jī piào",
+    "english": "air ticket; passenger ticket",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-166",
+    "chinese": "鸡蛋",
+    "pinyin": "jī dàn",
+    "english": "(chicken) egg; hen's egg",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-167",
+    "chinese": "几",
+    "pinyin": "jī",
+    "english": "small table",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-168",
+    "chinese": "记",
+    "pinyin": "jì",
+    "english": "to record; to note; to memorize; to remember; mark; sign; classifier for blows, kicks, shots",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-169",
+    "chinese": "记得",
+    "pinyin": "jì de",
+    "english": "to remember",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-170",
+    "chinese": "记住",
+    "pinyin": "jì zhu",
+    "english": "to remember; to bear in mind; to learn by heart",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-171",
+    "chinese": "家",
+    "pinyin": "jiā",
+    "english": "used in 家伙 and 家俱",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-172",
+    "chinese": "家里",
+    "pinyin": "jiā lǐ",
+    "english": "home",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-173",
+    "chinese": "家人",
+    "pinyin": "jiā rén",
+    "english": "family member; (old) servant",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-174",
+    "chinese": "间",
+    "pinyin": "jiān",
+    "english": "between; among; within a definite time or space; room; section of a room or lateral space between two pairs of pillars; classifier for rooms",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-175",
+    "chinese": "见",
+    "pinyin": "jiàn",
+    "english": "to see; to meet; to appear (to be sth); to interview; opinion; view",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-176",
+    "chinese": "见面",
+    "pinyin": "jiàn miàn",
+    "english": "to meet; to see each other",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-177",
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "english": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-178",
+    "chinese": "教",
+    "pinyin": "Jiào",
+    "english": "surname Jiao",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-179",
+    "chinese": "教学楼",
+    "pinyin": "jiào xué lóu",
+    "english": "teaching block; school building",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-180",
+    "chinese": "介绍",
+    "pinyin": "jiè shào",
+    "english": "to introduce (sb to sb); to give a presentation; to present (sb for a job etc); introduction",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-181",
+    "chinese": "姐",
+    "pinyin": "jiě",
+    "english": "older sister",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-182",
+    "chinese": "姐姐",
+    "pinyin": "jiě jie",
+    "english": "older sister",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-183",
+    "chinese": "今年",
+    "pinyin": "jīn nián",
+    "english": "this year",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-184",
+    "chinese": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today; at the present; now",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-185",
+    "chinese": "进",
+    "pinyin": "jìn",
+    "english": "to go forward; to advance; to go in; to enter; to put in; to submit; to take in; to admit; (math.) base of a number system; classifier for sections in a building or residential compound",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-186",
+    "chinese": "进来",
+    "pinyin": "jìn lái",
+    "english": "to come in",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-187",
+    "chinese": "进去",
+    "pinyin": "jìn qù",
+    "english": "to go in",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-188",
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "english": "nine; 9",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-189",
+    "chinese": "就",
+    "pinyin": "jiù",
+    "english": "(after a suppositional clause) in that case; then; (after a clause of action) as soon as; immediately after; (same as 是) merely; nothing else but; simply; just; precisely; exactly; only; as little as; as much as; as many as; to approach; to move towards; to undertake; to engage in; (often followed by 着) taking advantage of; (of food) to go with; with regard to; concerning; (pattern: 就 ... 也 ...) even if ... still ...; (pattern: 不 ... 就 ...) if not ... then must be ...",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-190",
+    "chinese": "觉得",
+    "pinyin": "jué de",
+    "english": "to think that ...; to feel that ...; to feel (uncomfortable etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-191",
+    "chinese": "开",
+    "pinyin": "kāi",
+    "english": "to open (transitive or intransitive); (of ships, vehicles, troops etc) to start; to turn on; to put in operation; to operate; to run; to boil; to write out (a prescription, check, invoice etc); (directional complement) away; off; carat (gold); abbr. for Kelvin, 开尔文; abbr. for 开本, book format",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-192",
+    "chinese": "开车",
+    "pinyin": "kāi chē",
+    "english": "to drive a car",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-193",
+    "chinese": "开会",
+    "pinyin": "kāi huì",
+    "english": "to hold a meeting; to attend a meeting",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-194",
+    "chinese": "开玩笑",
+    "pinyin": "kāi wán xiào",
+    "english": "to play a joke; to make fun of; to joke",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-195",
+    "chinese": "看",
+    "pinyin": "kān",
+    "english": "to look after; to take care of; to watch; to guard",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-196",
+    "chinese": "看病",
+    "pinyin": "kàn bìng",
+    "english": "to visit a doctor; to see a patient",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-197",
+    "chinese": "看到",
+    "pinyin": "kàn dào",
+    "english": "to see",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-198",
+    "chinese": "看见",
+    "pinyin": "kàn jiàn",
+    "english": "to see; to catch sight of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-199",
+    "chinese": "考",
+    "pinyin": "kǎo",
+    "english": "to beat; to hit; variant of 考; to inspect; to test; to take an exam",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-200",
+    "chinese": "考试",
+    "pinyin": "kǎo shì",
+    "english": "to take an exam; exam",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-201",
+    "chinese": "渴",
+    "pinyin": "kě",
+    "english": "thirsty",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-202",
+    "chinese": "课",
+    "pinyin": "kè",
+    "english": "subject; course; class; lesson; to levy; tax; form of divination",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-203",
+    "chinese": "课本",
+    "pinyin": "kè běn",
+    "english": "textbook",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-204",
+    "chinese": "课文",
+    "pinyin": "kè wén",
+    "english": "text",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-205",
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "english": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-206",
+    "chinese": "块",
+    "pinyin": "kuài",
+    "english": "lump; chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-207",
+    "chinese": "快",
+    "pinyin": "kuài",
+    "english": "rapid; quick; speed; rate; soon; almost; to make haste; clever; sharp (of knives or wits); forthright; plainspoken; gratified; pleased; pleasant",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-208",
+    "chinese": "来",
+    "pinyin": "lái",
+    "english": "to come; (used as a substitute for a more specific verb); hither (directional complement for motion toward the speaker, as in 回来); ever since (as in 自古以来); for the past (amount of time); (prefix) the coming ...; the next ... (as in 来世); (between two verbs) in order to; (after a round number) approximately; (used after 得 to indicate possibility, as in 谈得来, or after 不 to indicate impossibility, as in 吃不来)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-209",
+    "chinese": "来到",
+    "pinyin": "lái dào",
+    "english": "to arrive; to come",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-210",
+    "chinese": "老",
+    "pinyin": "lǎo",
+    "english": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-211",
+    "chinese": "老人",
+    "pinyin": "lǎo rén",
+    "english": "old man or woman; the elderly; one's aged parents or grandparents",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-212",
+    "chinese": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-213",
+    "chinese": "了",
+    "pinyin": "le",
+    "english": "(completed action marker); (modal particle indicating change of state, situation now); (modal particle intensifying preceding clause)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-214",
+    "chinese": "累",
+    "pinyin": "lěi",
+    "english": "to accumulate; to involve or implicate (Taiwan pr. [lèi]); continuous; repeated",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-215",
+    "chinese": "冷",
+    "pinyin": "Lěng",
+    "english": "surname Leng",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-216",
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "english": "variant of 里",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-217",
+    "chinese": "里边",
+    "pinyin": "lǐ bian",
+    "english": "inside",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-218",
+    "chinese": "两",
+    "pinyin": "liǎng",
+    "english": "two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤 (old)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-219",
+    "chinese": "零",
+    "pinyin": "líng",
+    "english": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) remainder (after division); extra; to wither and fall; to wither",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-220",
+    "chinese": "六",
+    "pinyin": "liù",
+    "english": "six; 6",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-221",
+    "chinese": "楼",
+    "pinyin": "Lóu",
+    "english": "surname Lou",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-222",
+    "chinese": "楼上",
+    "pinyin": "lóu shàng",
+    "english": "upstairs; (Internet slang) previous poster in a forum thread",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-223",
+    "chinese": "楼下",
+    "pinyin": "lóu xià",
+    "english": "downstairs",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-224",
+    "chinese": "路",
+    "pinyin": "Lù",
+    "english": "surname Lu",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-225",
+    "chinese": "路口",
+    "pinyin": "lù kǒu",
+    "english": "crossing; intersection (of roads)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-226",
+    "chinese": "路上",
+    "pinyin": "lù shang",
+    "english": "on the road; on a journey; road surface",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-227",
+    "chinese": "妈",
+    "pinyin": "mā",
+    "english": "ma; mom; mother",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-228",
+    "chinese": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mama; mommy; mother",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-229",
+    "chinese": "马路",
+    "pinyin": "mǎ lù",
+    "english": "street; road",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-230",
+    "chinese": "马上",
+    "pinyin": "mǎ shàng",
+    "english": "at once; right away; immediately; on horseback (i.e. by military force)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-231",
+    "chinese": "吗",
+    "pinyin": "má",
+    "english": "(coll.) what?",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-232",
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "english": "to buy; to purchase",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-233",
+    "chinese": "慢",
+    "pinyin": "màn",
+    "english": "slow",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-234",
+    "chinese": "忙",
+    "pinyin": "máng",
+    "english": "busy; hurriedly; to hurry; to rush",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-235",
+    "chinese": "毛",
+    "pinyin": "Máo",
+    "english": "surname Mao",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-236",
+    "chinese": "没",
+    "pinyin": "méi",
+    "english": "(negative prefix for verbs) have not; not",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-237",
+    "chinese": "没关系",
+    "pinyin": "méi guān xi",
+    "english": "it doesn't matter",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-238",
+    "chinese": "没什么",
+    "pinyin": "méi shén me",
+    "english": "nothing; it doesn't matter; it's nothing; never mind",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-239",
+    "chinese": "没事儿",
+    "pinyin": "méi shì r",
+    "english": "to have spare time; free from work; it's not important; it's nothing; never mind",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-240",
+    "chinese": "没有",
+    "pinyin": "méi yǒu",
+    "english": "haven't; hasn't; doesn't exist; to not have; to not be",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-241",
+    "chinese": "妹",
+    "pinyin": "mèi",
+    "english": "younger sister",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-242",
+    "chinese": "妹妹",
+    "pinyin": "mèi mei",
+    "english": "younger sister; young woman",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-243",
+    "chinese": "门",
+    "pinyin": "Mén",
+    "english": "surname Men",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-244",
+    "chinese": "门口",
+    "pinyin": "mén kǒu",
+    "english": "doorway; gate",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-245",
+    "chinese": "门票",
+    "pinyin": "mén piào",
+    "english": "ticket (for theater, cinema etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-246",
+    "chinese": "们",
+    "pinyin": "men",
+    "english": "plural marker for pronouns, and nouns referring to individuals",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-247",
+    "chinese": "们",
+    "pinyin": "men",
+    "english": "plural marker for pronouns, and nouns referring to individuals",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-248",
+    "chinese": "米饭",
+    "pinyin": "mǐ fàn",
+    "english": "(cooked) rice",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-249",
+    "chinese": "面包",
+    "pinyin": "miàn bāo",
+    "english": "bread",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-250",
+    "chinese": "面条儿",
+    "pinyin": "miàn tiáo r",
+    "english": "erhua variant of 面条",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-251",
+    "chinese": "名字",
+    "pinyin": "míng zi",
+    "english": "name (of a person or thing)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-252",
+    "chinese": "明白",
+    "pinyin": "míng bai",
+    "english": "clear; obvious; unequivocal; to understand; to realize",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-253",
+    "chinese": "明年",
+    "pinyin": "míng nián",
+    "english": "next year",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-254",
+    "chinese": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-255",
+    "chinese": "拿",
+    "pinyin": "ná",
+    "english": "old variant of 拿",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-256",
+    "chinese": "哪",
+    "pinyin": "nǎ",
+    "english": "how; which",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-257",
+    "chinese": "哪儿",
+    "pinyin": "nǎ r",
+    "english": "where?; wherever; anywhere; somewhere; (used in rhetorical questions) how can ...?; how could ...?",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-258",
+    "chinese": "哪里",
+    "pinyin": "nǎ lǐ",
+    "english": "where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment; also written 哪里",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-259",
+    "chinese": "哪些",
+    "pinyin": "nǎ xiē",
+    "english": "which ones?; who?; what?",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-260",
+    "chinese": "那",
+    "pinyin": "Nā",
+    "english": "surname Na",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-261",
+    "chinese": "那边",
+    "pinyin": "nà bian",
+    "english": "over there; yonder",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-262",
+    "chinese": "那儿",
+    "pinyin": "nà r",
+    "english": "there",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-263",
+    "chinese": "那里",
+    "pinyin": "nà li",
+    "english": "there; that place",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-264",
+    "chinese": "那些",
+    "pinyin": "nà xiē",
+    "english": "those",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-265",
+    "chinese": "奶",
+    "pinyin": "nǎi",
+    "english": "breast; milk; to breastfeed",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-266",
+    "chinese": "奶奶",
+    "pinyin": "nǎi nai",
+    "english": "(informal) grandma (paternal grandmother); (respectful) mistress of the house; (coll.) boobies; breasts",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-267",
+    "chinese": "男",
+    "pinyin": "nán",
+    "english": "male; Baron, lowest of five orders of nobility 位",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-268",
+    "chinese": "男孩儿",
+    "pinyin": "nán hái r",
+    "english": "erhua variant of 孩",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-269",
+    "chinese": "男朋友",
+    "pinyin": "nán péng you",
+    "english": "boyfriend",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-270",
+    "chinese": "男人",
+    "pinyin": "nán rén",
+    "english": "a man; a male; men",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-271",
+    "chinese": "男生",
+    "pinyin": "nán shēng",
+    "english": "schoolboy; male student; boy; guy (young adult male)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-272",
+    "chinese": "南",
+    "pinyin": "Nán",
+    "english": "surname Nan",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-273",
+    "chinese": "南边",
+    "pinyin": "nán bian",
+    "english": "south; south side; southern part; to the south of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-274",
+    "chinese": "难",
+    "pinyin": "nán",
+    "english": "difficult (to...); problem; difficulty; difficult; not good",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-275",
+    "chinese": "呢",
+    "pinyin": "ne",
+    "english": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\"); particle for inquiring about location (\"Where is ...?\"); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\"); (at the end of a declarative sentence) particle indicating continuation of a state or action; particle indicating strong affirmation",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-276",
+    "chinese": "能",
+    "pinyin": "Néng",
+    "english": "surname Neng",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-277",
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "english": "you (informal, as opposed to courteous 您)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-278",
+    "chinese": "你们",
+    "pinyin": "nǐ men",
+    "english": "you (plural)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-279",
+    "chinese": "年",
+    "pinyin": "Nián",
+    "english": "surname Nian",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-280",
+    "chinese": "您",
+    "pinyin": "nín",
+    "english": "you (courteous, as opposed to informal 你)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-281",
+    "chinese": "牛奶",
+    "pinyin": "niú nǎi",
+    "english": "cow's milk",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-282",
+    "chinese": "女",
+    "pinyin": "nu:3",
+    "english": "female; woman; daughter",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-283",
+    "chinese": "女儿",
+    "pinyin": "nu:3 ér",
+    "english": "daughter",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-284",
+    "chinese": "女孩儿",
+    "pinyin": "nu:3 hái r",
+    "english": "erhua variant of 孩",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-285",
+    "chinese": "女朋友",
+    "pinyin": "nu:3 péng you",
+    "english": "girlfriend",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-286",
+    "chinese": "女人",
+    "pinyin": "nu:3 rén",
+    "english": "woman",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-287",
+    "chinese": "女生",
+    "pinyin": "nu:3 shēng",
+    "english": "schoolgirl; female student; girl",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-288",
+    "chinese": "旁边",
+    "pinyin": "páng biān",
+    "english": "side; adjacent place",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-289",
+    "chinese": "跑",
+    "pinyin": "páo",
+    "english": "(of an animal) to paw (the ground)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-290",
+    "chinese": "朋友",
+    "pinyin": "péng you",
+    "english": "friend",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-291",
+    "chinese": "票",
+    "pinyin": "piào",
+    "english": "ticket; ballot; banknote; person held for ransom; amateur performance of Chinese opera; classifier for groups, batches, business transactions",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-292",
+    "chinese": "七",
+    "pinyin": "qī",
+    "english": "seven; 7",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-293",
+    "chinese": "起",
+    "pinyin": "qǐ",
+    "english": "to rise; to raise; to get up; to set out; to start; to appear; to launch; to initiate (action); to draft; to establish; to get (from a depot or counter); verb suffix, to start; starting from (a time, place, price etc); classifier for occurrences or unpredictable events: case, instance; classifier for groups: batch, group",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-294",
+    "chinese": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "to get out of bed; to get up",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-295",
+    "chinese": "起来",
+    "pinyin": "qǐ lai",
+    "english": "to stand up; to get up; also pr. [qǐ lái]",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-296",
+    "chinese": "汽车",
+    "pinyin": "qì chē",
+    "english": "car; automobile; bus",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-297",
+    "chinese": "前",
+    "pinyin": "qián",
+    "english": "front; forward; ahead; first; top (followed by a number); future; ago; before; BC (e.g. 前293年); former; formerly",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-298",
+    "chinese": "前边",
+    "pinyin": "qián bian",
+    "english": "front; the front side; in front of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-299",
+    "chinese": "前天",
+    "pinyin": "qián tiān",
+    "english": "the day before yesterday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-300",
+    "chinese": "钱",
+    "pinyin": "Qián",
+    "english": "surname Qian",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-301",
+    "chinese": "钱包",
+    "pinyin": "qián bāo",
+    "english": "purse; wallet",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-302",
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "english": "to ask; to invite; please (do sth); to treat (to a meal etc); to request",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-303",
+    "chinese": "请假",
+    "pinyin": "qǐng jià",
+    "english": "to request leave of absence",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-304",
+    "chinese": "请进",
+    "pinyin": "qǐng jìn",
+    "english": "\"please come in\"",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-305",
+    "chinese": "请问",
+    "pinyin": "qǐng wèn",
+    "english": "Excuse me, may I ask...?",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-306",
+    "chinese": "请坐",
+    "pinyin": "qǐng zuò",
+    "english": "please, have a seat",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-307",
+    "chinese": "球",
+    "pinyin": "qiú",
+    "english": "ball; sphere; globe; ball game; match",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-308",
+    "chinese": "去",
+    "pinyin": "qù",
+    "english": "to go; to go to (a place); (of a time etc) last; just passed; to send; to remove; to get rid of; to reduce; to be apart from in space or time; to die (euphemism); to play (a part); (when used either before or after a verb) to go in order to do sth; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-309",
+    "chinese": "去年",
+    "pinyin": "qù nián",
+    "english": "last year",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-310",
+    "chinese": "热",
+    "pinyin": "rè",
+    "english": "to warm up; to heat up; hot (of weather); heat; fervent",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-311",
+    "chinese": "人",
+    "pinyin": "rén",
+    "english": "person; people",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-312",
+    "chinese": "认识",
+    "pinyin": "rèn shi",
+    "english": "to know; to recognize; to be familiar with; to get acquainted with sb; knowledge; understanding; awareness; cognition",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-313",
+    "chinese": "认真",
+    "pinyin": "rèn zhēn",
+    "english": "conscientious; earnest; serious; to take seriously; to take to heart",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-314",
+    "chinese": "日",
+    "pinyin": "Rì",
+    "english": "abbr. for 本, Japan",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-315",
+    "chinese": "日期",
+    "pinyin": "rì qī",
+    "english": "date",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-316",
+    "chinese": "肉",
+    "pinyin": "ròu",
+    "english": "meat; flesh; pulp (of a fruit); (coll.) (of a fruit) squashy; (of a person) flabby; irresolute; Kangxi radical 130",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-317",
+    "chinese": "三",
+    "pinyin": "Sān",
+    "english": "surname San",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-318",
+    "chinese": "山",
+    "pinyin": "Shān",
+    "english": "surname Shan",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-319",
+    "chinese": "商场",
+    "pinyin": "shāng chǎng",
+    "english": "shopping mall; shopping center; department store; emporium; the business world",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-320",
+    "chinese": "商店",
+    "pinyin": "shāng diàn",
+    "english": "store; shop",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-321",
+    "chinese": "上",
+    "pinyin": "shǎng",
+    "english": "used in 上声",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-322",
+    "chinese": "上班",
+    "pinyin": "shàng bān",
+    "english": "to go to work; to be on duty; to start work; to go to the office",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-323",
+    "chinese": "上边",
+    "pinyin": "shàng bian",
+    "english": "the top; above; overhead; upwards; the top margin; above-mentioned; those higher up",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-324",
+    "chinese": "上车",
+    "pinyin": "shàng chē",
+    "english": "to get on or into (a bus, train, car etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-325",
+    "chinese": "上次",
+    "pinyin": "shàng cì",
+    "english": "last time",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-326",
+    "chinese": "上课",
+    "pinyin": "shàng kè",
+    "english": "to go to class; to attend class; to go to teach a class",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-327",
+    "chinese": "上网",
+    "pinyin": "shàng wǎng",
+    "english": "to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-328",
+    "chinese": "上午",
+    "pinyin": "shàng wǔ",
+    "english": "morning",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-329",
+    "chinese": "上学",
+    "pinyin": "shàng xué",
+    "english": "to go to school; to attend school",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-330",
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "english": "few; less; to lack; to be missing; to stop (doing sth); seldom",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-331",
+    "chinese": "身上",
+    "pinyin": "shēn shang",
+    "english": "on the body; at hand; among",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-332",
+    "chinese": "身体",
+    "pinyin": "shēn tǐ",
+    "english": "the body; one's health; in person",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-333",
+    "chinese": "什么",
+    "pinyin": "shén me",
+    "english": "what?; something; anything",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-334",
+    "chinese": "生病",
+    "pinyin": "shēng bìng",
+    "english": "to fall ill",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-335",
+    "chinese": "生气",
+    "pinyin": "shēng qì",
+    "english": "to get angry; to take offense; angry; vitality; liveliness",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-336",
+    "chinese": "生日",
+    "pinyin": "shēng rì",
+    "english": "birthday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-337",
+    "chinese": "十",
+    "pinyin": "shí",
+    "english": "ten; 10",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-338",
+    "chinese": "时候",
+    "pinyin": "shí hou",
+    "english": "time; length of time; moment; period",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-339",
+    "chinese": "时间",
+    "pinyin": "shí jiān",
+    "english": "time; period",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-340",
+    "chinese": "事",
+    "pinyin": "shì",
+    "english": "matter; thing; item; work; affair",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-341",
+    "chinese": "试",
+    "pinyin": "shì",
+    "english": "to test; to try; experiment; examination; test",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-342",
+    "chinese": "是",
+    "pinyin": "shì",
+    "english": "to be (followed by substantives only); correct; right; true; (respectful acknowledgement of a command) very well; (adverb for emphatic assertion)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-343",
+    "chinese": "是不是",
+    "pinyin": "shì bù shì",
+    "english": "is or isn't; yes or no; whether or not",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-344",
+    "chinese": "手",
+    "pinyin": "shǒu",
+    "english": "hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient; classifier for skill",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-345",
+    "chinese": "手机",
+    "pinyin": "shǒu jī",
+    "english": "cell phone; mobile phone",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-346",
+    "chinese": "书",
+    "pinyin": "Shū",
+    "english": "abbr. for 书经",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-347",
+    "chinese": "书包",
+    "pinyin": "shū bāo",
+    "english": "schoolbag; satchel; bookbag",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-348",
+    "chinese": "书店",
+    "pinyin": "shū diàn",
+    "english": "bookstore",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-349",
+    "chinese": "树",
+    "pinyin": "shù",
+    "english": "tree; to cultivate; to set up",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-350",
+    "chinese": "谁",
+    "pinyin": "shéi",
+    "english": "who; also pr. [shuí]",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-351",
+    "chinese": "水",
+    "pinyin": "Shuǐ",
+    "english": "surname Shui",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-352",
+    "chinese": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english": "fruit",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-353",
+    "chinese": "睡",
+    "pinyin": "shuì",
+    "english": "to sleep; to lie down",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-354",
+    "chinese": "睡觉",
+    "pinyin": "shuì jiào",
+    "english": "to go to bed; to sleep",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-355",
+    "chinese": "说",
+    "pinyin": "shuì",
+    "english": "to persuade",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-356",
+    "chinese": "说话",
+    "pinyin": "shuō huà",
+    "english": "to speak; to say; to talk; to gossip; to tell stories; talk; word",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-357",
+    "chinese": "四",
+    "pinyin": "sì",
+    "english": "four; 4",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-358",
+    "chinese": "送",
+    "pinyin": "sòng",
+    "english": "to send; to deliver; to transmit; to give (as a present); to see (sb) off; to accompany; to go along with",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-359",
+    "chinese": "岁",
+    "pinyin": "suì",
+    "english": "variant of 岁, year; years old",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-360",
+    "chinese": "他",
+    "pinyin": "tā",
+    "english": "he; him (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); (literary) other",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-361",
+    "chinese": "他们",
+    "pinyin": "tā men",
+    "english": "they",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-362",
+    "chinese": "她",
+    "pinyin": "tā",
+    "english": "she",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-363",
+    "chinese": "她们",
+    "pinyin": "tā men",
+    "english": "they; them (for females)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-364",
+    "chinese": "太",
+    "pinyin": "tài",
+    "english": "highest; greatest; too (much); very; extremely",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-365",
+    "chinese": "天",
+    "pinyin": "tiān",
+    "english": "day; sky; heaven",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-366",
+    "chinese": "天气",
+    "pinyin": "tiān qì",
+    "english": "weather",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-367",
+    "chinese": "听",
+    "pinyin": "yǐn",
+    "english": "smile (archaic)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-368",
+    "chinese": "听到",
+    "pinyin": "tīng dào",
+    "english": "to hear",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-369",
+    "chinese": "听见",
+    "pinyin": "tīng jiàn",
+    "english": "to hear",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-370",
+    "chinese": "听写",
+    "pinyin": "tīng xiě",
+    "english": "(of a pupil) to write down (in a dictation exercise); dictation; (music) to transcribe by ear",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-371",
+    "chinese": "同学",
+    "pinyin": "tóng xué",
+    "english": "to study at the same school; fellow student; classmate",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-372",
+    "chinese": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "english": "library",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-373",
+    "chinese": "外",
+    "pinyin": "wài",
+    "english": "outside; in addition; foreign; external",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-374",
+    "chinese": "外边",
+    "pinyin": "wài bian",
+    "english": "outside; outer surface; abroad; place other than one's home",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-375",
+    "chinese": "外国",
+    "pinyin": "wài guó",
+    "english": "foreign (country)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-376",
+    "chinese": "外语",
+    "pinyin": "wài yǔ",
+    "english": "foreign language",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-377",
+    "chinese": "玩儿",
+    "pinyin": "wán r",
+    "english": "to play; to have fun; to hang out",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-378",
+    "chinese": "晚",
+    "pinyin": "wǎn",
+    "english": "evening; night; late",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-379",
+    "chinese": "晚饭",
+    "pinyin": "wǎn fàn",
+    "english": "evening meal; dinner; supper",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-380",
+    "chinese": "晚上",
+    "pinyin": "wǎn shang",
+    "english": "evening; night; in the evening",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-381",
+    "chinese": "网上",
+    "pinyin": "wǎng shàng",
+    "english": "online",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-382",
+    "chinese": "网友",
+    "pinyin": "wǎng yǒu",
+    "english": "online friend; Internet user",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-383",
+    "chinese": "忘",
+    "pinyin": "wàng",
+    "english": "to forget; to overlook; to neglect",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-384",
+    "chinese": "忘记",
+    "pinyin": "wàng jì",
+    "english": "to forget",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-385",
+    "chinese": "问",
+    "pinyin": "wèn",
+    "english": "to ask; to inquire",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-386",
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "english": "I; me; my",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-387",
+    "chinese": "我们",
+    "pinyin": "wǒ men",
+    "english": "we; us; ourselves; our",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-388",
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "english": "five; 5",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-389",
+    "chinese": "午饭",
+    "pinyin": "wǔ fàn",
+    "english": "lunch",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-390",
+    "chinese": "洗",
+    "pinyin": "xǐ",
+    "english": "to wash; to bathe; to develop (photographs); to shuffle (cards etc); to erase (a recording)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-391",
+    "chinese": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "english": "toilet; lavatory; washroom",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-392",
+    "chinese": "喜欢",
+    "pinyin": "xǐ huan",
+    "english": "to like; to be fond of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-393",
+    "chinese": "西",
+    "pinyin": "Xī",
+    "english": "the West; abbr. for Spain 牙; Spanish",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-394",
+    "chinese": "西边",
+    "pinyin": "xī biān",
+    "english": "west; west side; western part; to the west of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-395",
+    "chinese": "下",
+    "pinyin": "xià",
+    "english": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down; to arrive at (a decision, conclusion etc); measure word to show the frequency of an action",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-396",
+    "chinese": "下班",
+    "pinyin": "xià bān",
+    "english": "to finish work; to get off work",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-397",
+    "chinese": "下边",
+    "pinyin": "xià bian",
+    "english": "under; the underside; below",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-398",
+    "chinese": "下车",
+    "pinyin": "xià chē",
+    "english": "to get off or out of (a bus, train, car etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-399",
+    "chinese": "下次",
+    "pinyin": "xià cì",
+    "english": "next time",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-400",
+    "chinese": "下课",
+    "pinyin": "xià kè",
+    "english": "to finish class; to get out of class; (fig.) (esp. of a sports coach) to be dismissed; to be fired",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-401",
+    "chinese": "下午",
+    "pinyin": "xià wǔ",
+    "english": "afternoon; p.m.",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-402",
+    "chinese": "下雨",
+    "pinyin": "xià yǔ",
+    "english": "to rain",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-403",
+    "chinese": "先",
+    "pinyin": "xiān",
+    "english": "early; prior; former; in advance; first",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-404",
+    "chinese": "先生",
+    "pinyin": "xiān sheng",
+    "english": "teacher; gentleman; sir; mister (Mr.); husband; (dialect) doctor",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-405",
+    "chinese": "现在",
+    "pinyin": "xiàn zài",
+    "english": "now; at present; at the moment; modern; current; nowadays",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-406",
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "english": "to think (about); to think of; to devise; to think (that); to believe (that); to desire; to want (to); to miss (feel wistful about the absence of)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-407",
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "english": "small; tiny; few; young",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-408",
+    "chinese": "小孩儿",
+    "pinyin": "xiǎo hái r",
+    "english": "erhua variant of 孩",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-409",
+    "chinese": "小姐",
+    "pinyin": "xiǎo jie",
+    "english": "young lady; miss; (slang) prostitute",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-410",
+    "chinese": "小朋友",
+    "pinyin": "xiǎo péng yǒu",
+    "english": "child",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-411",
+    "chinese": "小时",
+    "pinyin": "xiǎo shí",
+    "english": "hour",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-412",
+    "chinese": "小学",
+    "pinyin": "xiǎo xué",
+    "english": "elementary school; primary school",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-413",
+    "chinese": "小学生",
+    "pinyin": "xiǎo xué shēng",
+    "english": "primary school student; schoolchild; (fig.) beginner",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-414",
+    "chinese": "笑",
+    "pinyin": "xiào",
+    "english": "old variant of 笑",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-415",
+    "chinese": "写",
+    "pinyin": "xiě",
+    "english": "to write",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-416",
+    "chinese": "谢谢",
+    "pinyin": "xiè xie",
+    "english": "to thank; thanks; thank you",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-417",
+    "chinese": "新",
+    "pinyin": "Xīn",
+    "english": "abbr. for Xinjiang 疆 or Singapore 坡; surname Xin",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-418",
+    "chinese": "新年",
+    "pinyin": "xīn nián",
+    "english": "New Year",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-419",
+    "chinese": "星期",
+    "pinyin": "xīng qī",
+    "english": "week; day of the week; Sunday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-420",
+    "chinese": "星期日",
+    "pinyin": "Xīng qī rì",
+    "english": "Sunday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-421",
+    "chinese": "星期天",
+    "pinyin": "Xīng qī tiān",
+    "english": "Sunday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-422",
+    "chinese": "行",
+    "pinyin": "háng",
+    "english": "row; line; commercial firm; line of business; profession; to rank (first, second etc) among one's siblings (by age); (in data tables) row; (Tw) column",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-423",
+    "chinese": "休息",
+    "pinyin": "xiū xi",
+    "english": "rest; to rest",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-424",
+    "chinese": "学",
+    "pinyin": "xué",
+    "english": "to learn; to study; to imitate; science; -ology",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-425",
+    "chinese": "学生",
+    "pinyin": "xué sheng",
+    "english": "student; schoolchild",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-426",
+    "chinese": "学习",
+    "pinyin": "xué xí",
+    "english": "to learn; to study",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-427",
+    "chinese": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-428",
+    "chinese": "学院",
+    "pinyin": "xué yuàn",
+    "english": "college; educational institute; school; faculty",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-429",
+    "chinese": "要",
+    "pinyin": "yāo",
+    "english": "(bound form) to demand; to coerce",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-430",
+    "chinese": "也",
+    "pinyin": "Yě",
+    "english": "surname Ye",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-431",
+    "chinese": "页",
+    "pinyin": "xié",
+    "english": "head",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-432",
+    "chinese": "爷爷",
+    "pinyin": "yé ye",
+    "english": "(coll.) father's father; paternal grandfather",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-433",
+    "chinese": "一",
+    "pinyin": "yī",
+    "english": "one; single; a (article); as soon as; entire; whole; all; throughout; \"one\" radical in Chinese characters (Kangxi radical 1); also pr. [yāo] for greater clarity when spelling out numbers digit by digit",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-434",
+    "chinese": "一半",
+    "pinyin": "yī bàn",
+    "english": "half",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-435",
+    "chinese": "一边",
+    "pinyin": "yī biān",
+    "english": "one side; either side; on the one hand; on the other hand; doing while",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-436",
+    "chinese": "一点儿",
+    "pinyin": "yī diǎn r",
+    "english": "erhua variant of 一点",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-437",
+    "chinese": "一会儿",
+    "pinyin": "yī huì r",
+    "english": "a moment; a while; in a moment; now...now...; also pr. [yī huǐ r]",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-438",
+    "chinese": "一块儿",
+    "pinyin": "yī kuài r",
+    "english": "erhua variant of 一块",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-439",
+    "chinese": "一起",
+    "pinyin": "yī qǐ",
+    "english": "in the same place; together; with; altogether (in total)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-440",
+    "chinese": "一下儿",
+    "pinyin": "yī xià r",
+    "english": "erhua variant of 下",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-441",
+    "chinese": "一些",
+    "pinyin": "yī xiē",
+    "english": "some; a few; a little; (following an adjective) slightly ...er",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-442",
+    "chinese": "一样",
+    "pinyin": "yī yàng",
+    "english": "same; like; equal to; the same as; just like",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-443",
+    "chinese": "衣服",
+    "pinyin": "yī fu",
+    "english": "clothes",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-444",
+    "chinese": "医生",
+    "pinyin": "yī shēng",
+    "english": "doctor",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-445",
+    "chinese": "医院",
+    "pinyin": "yī yuàn",
+    "english": "hospital",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-446",
+    "chinese": "用",
+    "pinyin": "yòng",
+    "english": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-447",
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "english": "to have; there is; (bound form) having; with; -ful; -ed; -al (as in 意 intentional)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-448",
+    "chinese": "有的",
+    "pinyin": "yǒu de",
+    "english": "(there are) some (who are...); some (exist)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-449",
+    "chinese": "有名",
+    "pinyin": "yǒu míng",
+    "english": "famous; well-known",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-450",
+    "chinese": "有时",
+    "pinyin": "yǒu shí",
+    "english": "sometimes; now and then",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-451",
+    "chinese": "有时候",
+    "pinyin": "yǒu shí hou",
+    "english": "sometimes",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-452",
+    "chinese": "有些",
+    "pinyin": "yǒu xiē",
+    "english": "some; somewhat",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-453",
+    "chinese": "有些",
+    "pinyin": "yǒu xiē",
+    "english": "some; somewhat",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-454",
+    "chinese": "有一些",
+    "pinyin": "yǒu yī xiē",
+    "english": "somewhat; rather; some",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-455",
+    "chinese": "有用",
+    "pinyin": "yǒu yòng",
+    "english": "useful",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-456",
+    "chinese": "右",
+    "pinyin": "yòu",
+    "english": "(bound form) right; right-hand side; (bound form) (politics) right of center; (bound form) (old) west; (literary) the right side as the side of precedence",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-457",
+    "chinese": "右边",
+    "pinyin": "yòu bian",
+    "english": "right side; right, to the right",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-458",
+    "chinese": "雨",
+    "pinyin": "yǔ",
+    "english": "rain",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-459",
+    "chinese": "元",
+    "pinyin": "Yuán",
+    "english": "surname Yuan; the Yuan or Mongol dynasty (1279-1368)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-460",
+    "chinese": "远",
+    "pinyin": "yuǎn",
+    "english": "far; distant; remote; (intensifier in a comparison) by far; much (lower etc)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-461",
+    "chinese": "月",
+    "pinyin": "yuè",
+    "english": "moon; month; monthly",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-462",
+    "chinese": "再",
+    "pinyin": "zài",
+    "english": "again; once more; re-; second; another; then (after sth, and not until then); no matter how ... (followed by an adjective or verb, and then (usually) 也 or 都 for emphasis)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-463",
+    "chinese": "再见",
+    "pinyin": "zài jiàn",
+    "english": "goodbye; see you again later",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-464",
+    "chinese": "在",
+    "pinyin": "zài",
+    "english": "to exist; to be alive; (of sb or sth) to be (located) at; (used before a verb to indicate an action in progress)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-465",
+    "chinese": "在家",
+    "pinyin": "zài jiā",
+    "english": "to be at home; (at a workplace) to be in (as opposed to being away on official business 差); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 家)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-466",
+    "chinese": "早",
+    "pinyin": "zǎo",
+    "english": "early; morning; Good morning!; long ago; prematurely",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-467",
+    "chinese": "早饭",
+    "pinyin": "zǎo fàn",
+    "english": "breakfast",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-468",
+    "chinese": "早上",
+    "pinyin": "zǎo shang",
+    "english": "early morning",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-469",
+    "chinese": "怎么",
+    "pinyin": "zěn me",
+    "english": "how?; what?; why?",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-470",
+    "chinese": "站",
+    "pinyin": "zhàn",
+    "english": "station; to stand; to halt; to stop; branch of a company or organization; website",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-471",
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "english": "to try to find; to look for; to call on sb; to find; to seek; to return; to give change",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-472",
+    "chinese": "找到",
+    "pinyin": "zhǎo dào",
+    "english": "to find",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-473",
+    "chinese": "这",
+    "pinyin": "zhè",
+    "english": "(pronoun) this; these; (bound form) this; the (followed by a noun); (bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-474",
+    "chinese": "这边",
+    "pinyin": "zhè biān",
+    "english": "this side; here",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-475",
+    "chinese": "这儿",
+    "pinyin": "zhè r",
+    "english": "here",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-476",
+    "chinese": "这里",
+    "pinyin": "zhè lǐ",
+    "english": "variant of 这里",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-477",
+    "chinese": "这些",
+    "pinyin": "zhè xiē",
+    "english": "these",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-478",
+    "chinese": "着",
+    "pinyin": "zhāo",
+    "english": "(chess) move; trick; all right!; (dialect) to add",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-479",
+    "chinese": "真",
+    "pinyin": "zhēn",
+    "english": "really; truly; indeed; real; true; genuine",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-480",
+    "chinese": "真的",
+    "pinyin": "zhēn de",
+    "english": "really, truly, indeed",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-481",
+    "chinese": "正",
+    "pinyin": "zhēng",
+    "english": "first month of the lunar year",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-482",
+    "chinese": "正在",
+    "pinyin": "zhèng zài",
+    "english": "just at (that time); right in (that place); right in the middle of (doing sth)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-483",
+    "chinese": "知道",
+    "pinyin": "zhī dào",
+    "english": "to know; to become aware of; also pr. [zhī dao]",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-484",
+    "chinese": "知识",
+    "pinyin": "zhī shi",
+    "english": "knowledge; intellectual",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-485",
+    "chinese": "中",
+    "pinyin": "Zhōng",
+    "english": "China; Chinese; surname Zhong",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-486",
+    "chinese": "中国",
+    "pinyin": "Zhōng guó",
+    "english": "China",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-487",
+    "chinese": "中间",
+    "pinyin": "zhōng jiān",
+    "english": "the middle; the inside; in the middle; within; between; among; during; in the meantime",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-488",
+    "chinese": "中文",
+    "pinyin": "Zhōng wén",
+    "english": "Chinese language",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-489",
+    "chinese": "中午",
+    "pinyin": "zhōng wǔ",
+    "english": "noon; midday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-490",
+    "chinese": "中学",
+    "pinyin": "zhōng xué",
+    "english": "middle school",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-491",
+    "chinese": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "english": "middle-school student; high school student",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-492",
+    "chinese": "重",
+    "pinyin": "chóng",
+    "english": "to repeat; repetition; again; re-; classifier: layer",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-493",
+    "chinese": "重要",
+    "pinyin": "zhòng yào",
+    "english": "important; significant; major",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-494",
+    "chinese": "住",
+    "pinyin": "zhù",
+    "english": "to live; to dwell; to stay; to reside; to stop; (suffix indicating firmness, steadiness, or coming to a halt)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-495",
+    "chinese": "准备",
+    "pinyin": "zhǔn bèi",
+    "english": "preparation; to prepare; to intend; to be about to; reserve (fund)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-496",
+    "chinese": "桌子",
+    "pinyin": "zhuō zi",
+    "english": "table; desk",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-497",
+    "chinese": "桌子",
+    "pinyin": "zhuō zi",
+    "english": "table; desk",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-498",
+    "chinese": "字",
+    "pinyin": "zì",
+    "english": "letter; symbol; character; word; courtesy or style name traditionally given to males aged 20 in dynastic China",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-499",
+    "chinese": "子",
+    "pinyin": "zǐ",
+    "english": "son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 位; ancient Chinese compass point: 0° (north); subsidiary; subordinate; sub-",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-500",
+    "chinese": "子",
+    "pinyin": "zǐ",
+    "english": "son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 位; ancient Chinese compass point: 0° (north); subsidiary; subordinate; sub-",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-501",
+    "chinese": "走",
+    "pinyin": "zǒu",
+    "english": "to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs, such as 走); to change (shape, form, meaning)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-502",
+    "chinese": "走路",
+    "pinyin": "zǒu lù",
+    "english": "to walk; to go on foot",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-503",
+    "chinese": "最",
+    "pinyin": "zuì",
+    "english": "variant of 最",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-504",
+    "chinese": "最好",
+    "pinyin": "zuì hǎo",
+    "english": "best; (you) had better (do what we suggest)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-505",
+    "chinese": "最后",
+    "pinyin": "zuì hòu",
+    "english": "final; last; finally; ultimate",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-506",
+    "chinese": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "yesterday",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-507",
+    "chinese": "左",
+    "pinyin": "Zuǒ",
+    "english": "surname Zuo",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-508",
+    "chinese": "左边",
+    "pinyin": "zuǒ bian",
+    "english": "left; the left side; to the left of",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-509",
+    "chinese": "坐",
+    "pinyin": "Zuò",
+    "english": "surname Zuo",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-510",
+    "chinese": "坐下",
+    "pinyin": "zuò xia",
+    "english": "to sit down",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  },
+  {
+    "id": "hsk1-511",
+    "chinese": "做",
+    "pinyin": "zuò",
+    "english": "to make; to produce; to write; to compose; to do; to engage in; to hold (a party etc); (of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc); (of a thing) to serve as; to be used for; to assume (an air or manner)",
+    "interval": 0,
+    "repetition": 0,
+    "easeFactor": 2.5,
+    "dueDate": "2025-12-28T02:22:04.594Z"
+  }
+]

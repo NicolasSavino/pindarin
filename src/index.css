@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  --chinese-red: #DC143C;
+  --imperial-gold: #FFD700;
+  --ink-black: #1a1a1a;
+  --jade-green: #00A86B;
+  --cream: #FFF8DC;
+  --dark-gold: #B8860B;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--ink-black);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.15) 0px,
+    rgba(0, 0, 0, 0.15) 1px,
+    transparent 1px,
+    transparent 2px
+  );
+  pointer-events: none;
+  opacity: 0.3;
+}
+
+#root {
+  width: 100%;
+  max-width: 800px;
+  position: relative;
+  z-index: 1;
+}
+
+button {
+  cursor: pointer;
+  border: 4px solid var(--ink-black);
+  border-radius: 0;
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.5);
+  transition: all 0.1s ease;
+  background: var(--chinese-red);
+  color: var(--cream);
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 6px 6px 0 rgba(0, 0, 0, 0.5);
+}
+
+button:active {
+  box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.5);
+  transform: translate(2px, 2px);
+}
+
+input, textarea {
+  font-family: inherit;
+  font-size: 16px;
+  padding: 12px;
+  border: 4px solid var(--ink-black);
+  border-radius: 0;
+  width: 100%;
+  transition: border-color 0.2s ease;
+  background: var(--cream);
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-color: var(--chinese-red);
+  box-shadow: 0 0 0 2px var(--imperial-gold);
+}
