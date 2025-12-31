@@ -104,45 +104,46 @@ function FlashcardView({ deck, onUpdateDeck, onExit }) {
         {currentCardIndex + 1} / {cards.length}
       </div>
 
-      <div className={`flashcard ${isFlipped ? 'flipped' : ''}`} onClick={handleFlip}>
-        <div className="flashcard-inner">
-          <div className="flashcard-front">
-            <div className="card-content">
-              <div className="chinese">{currentCard.chinese}</div>
-              <button
-                className="audio-btn"
-                onClick={(e) => {
-                  e.stopPropagation()
-                  playAudio()
-                }}
-              >
-                🔊
-              </button>
-              <div className="hint">Click to reveal</div>
+      <div className="card-container">
+        <div className={`flashcard ${isFlipped ? 'flipped' : ''}`} onClick={handleFlip}>
+          <div className="flashcard-inner">
+            <div className="flashcard-front">
+              <div className="card-content">
+                <div className="chinese">{currentCard.chinese}</div>
+                <div className="pinyin">{currentCard.pinyin}</div>
+                <button
+                  className="audio-btn"
+                  onClick={(e) => {
+                    e.stopPropagation()
+                    playAudio()
+                  }}
+                >
+                  🔊
+                </button>
+                <div className="hint">Click to reveal</div>
+              </div>
             </div>
-          </div>
 
-          <div className="flashcard-back">
-            <div className="card-content">
-              <div className="chinese">{currentCard.chinese}</div>
-              <div className="pinyin">{currentCard.pinyin}</div>
-              <div className="english">{currentCard.english}</div>
-              <button
-                className="audio-btn"
-                onClick={(e) => {
-                  e.stopPropagation()
-                  playAudio()
-                }}
-              >
-                🔊
-              </button>
+            <div className="flashcard-back">
+              <div className="card-content">
+                <div className="chinese">{currentCard.chinese}</div>
+                <div className="pinyin">{currentCard.pinyin}</div>
+                <div className="english">{currentCard.english}</div>
+                <button
+                  className="audio-btn"
+                  onClick={(e) => {
+                    e.stopPropagation()
+                    playAudio()
+                  }}
+                >
+                  🔊
+                </button>
+              </div>
             </div>
           </div>
         </div>
-      </div>
 
-      {isFlipped && (
-        <div className="grade-buttons">
+        <div className={`grade-buttons ${isFlipped ? 'visible' : ''}`}>
           <div className="grade-grid">
             <button
               className="grade-btn btn-next"
@@ -164,7 +165,7 @@ function FlashcardView({ deck, onUpdateDeck, onExit }) {
             </button>
           </div>
         </div>
-      )}
+      </div>
 
       <button className="exit-btn" onClick={onExit}>
         Exit Session
