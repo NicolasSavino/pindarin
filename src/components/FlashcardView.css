@@ -134,31 +134,11 @@
 
 .flashcard-front {
   background: var(--chinese-red);
-  animation: cardGlow 3s ease-in-out infinite;
-}
-
-@keyframes cardGlow {
-  0%, 100% {
-    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.5), 0 0 0 rgba(220, 20, 60, 0);
-  }
-  50% {
-    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.5), 0 0 20px rgba(220, 20, 60, 0.6);
-  }
 }
 
 .flashcard-back {
   background: var(--jade-green);
   transform: rotateY(180deg);
-  animation: cardGlowGreen 3s ease-in-out infinite;
-}
-
-@keyframes cardGlowGreen {
-  0%, 100% {
-    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.5), 0 0 0 rgba(0, 168, 107, 0);
-  }
-  50% {
-    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.5), 0 0 20px rgba(0, 168, 107, 0.6);
-  }
 }
 
 .card-content {
